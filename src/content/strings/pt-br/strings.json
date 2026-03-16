@@ -7,22 +7,22 @@
     },
     "hero": {
         "title": "Boas-Vindas ao Fossify!",
-        "subtitle": "⚠️ O site ainda está em contrução. Por favor volte depois.",
+        "subtitle": "⚠️ O site está em construção. Por favor, volte depois.",
         "donate": "doar"
     },
     "profile": {
         "title": "Sobre nós",
-        "subtitle": "What we stand for",
+        "subtitle": "O que prezamos",
         "about": {
-            "description": "A group of simple, open source apps without ads and unnecessary permissions, with customizable colors. A fork of @SimpleMobileTools."
+            "description": "Um grupo de apps simples, de código aberto, sem anúncios e permissões desnecessárias, com cores customizáveis. Um fork do @SimpleMobileTools."
         },
         "vision": {
-            "title": "Nossa visão:",
-            "text": "Imagine a world where mobile apps enhance our lives without invading our privacy. That's what Fossify strives for. We envision a thriving community of people working together to create free, open-source apps that benefit everyone. Join us and build a more secure, user-friendly digital future, one app at a time."
+            "title": "Nossa visão",
+            "text": "Imagine um mundo onde aplicativos móveis melhorem nossas vidas sem invadir nossa privacidade. Isso é o que o Fossify tenta realizar. A gente visualiza uma comunidade próspera de pessoas trabalhando juntas para criar aplicativos grátis, de código aberto que beneficia todo mundo. Junte-se a nós e construa um futuro mais seguro e intuitivo, um app de cada vez."
         },
         "mission": {
-            "title": "Nossa missão:",
-            "text": "Building privacy-first mobile apps for everyone. Fossify revives the legacy of @SimpleMobileTools, crafting open-source tools that are ad-free and easy to use. We empower individuals and communities with technology that respects their privacy and keeps things simple."
+            "title": "Nossa missão",
+            "text": "Construir aplicativos móveis com foco na privacidade pra todo mundo. Fossify revive o legado do @SimpleMobileTools, criando ferramentas de código aberto, sem anúncios e fáceis de usar. Capacitamos indivíduos e comunidades com tecnologia que respeita a sua privacidade e mantém as coisas simples."
         }
     },
     "donation": {
@@ -30,18 +30,18 @@
         "description": "Se você gostaria de ajudar no desenvolvimento do Fossify, considere fazer uma doação usando qualquer uma das opções abaixo."
     },
     "products": {
-        "title": "Our products",
-        "description": "Fossify apps are a community-backed, open-source, and ad-free suite of mobile apps. A fork of the @SimpleMobileTools, which is no longer maintained, and we're here to continue the legacy, bringing simple and private tech to everyone.",
+        "title": "Nossos produtos",
+        "description": "Os aplicativos do Fossify são de código aberto e sem anúncios, sustentados pela comunidade. Um fork do @SimpleMobileTools, que não é mais mantido, e a gente tá aqui pra continuar esse legado, trazendo tecnologia privada e simples pra todos.",
         "hint": "Deslize para ver mais",
         "label": "Ler mais",
         "close": "Fechar"
     },
     "contribuidores": {
-        "title": "Top contributors",
+        "title": "Principais contribuidores",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, expedita!"
     },
     "donors": {
-        "title": "Our donors",
+        "title": "Nossos doadores",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, expedita!"
     },
     "footer": {
